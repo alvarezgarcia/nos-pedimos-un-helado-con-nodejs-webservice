@@ -1,0 +1,16 @@
+{
+  "name": "nos-pedimos-un-helado-con-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck --port 10001 deck/slides.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mdx-deck": "^1.7.7"
+  }
+}
