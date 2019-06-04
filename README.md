@@ -1,7 +1,7 @@
 # Tomemos un helado con NodeJS - Código fuente
 
 Este repositorio contiene el código fuente de la presentación
-[Tomemos un helado con NodeJS](https://github.com/raichuk/nos-pedimos-un-helado-con-nodejs-talk)
+[Tomemos un helado con NodeJS](https://tomemos-un-helado-con-nodejs.now.sh/)
 
 ## Descarga
 ```
