@@ -19,6 +19,12 @@ git clone https://github.com/raichuk/nos-pedimos-un-helado-con-nodejs-webservice
   - **lib/**
     - index.js
 
+## Servidores
+
+Los archivos numerados en `src` tiene por objetivo introducir progresivamente conceptos tanto de NodeJS
+como de armado de servicios web.
+La ejecución de cada uno es independiente y no hay dependencias entre ellos.
+
 
 `node src/01-servidor-saluda.js`
 - Devuelve un saludo
